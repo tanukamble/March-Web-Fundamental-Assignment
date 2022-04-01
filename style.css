@@ -1,0 +1,49 @@
+.container{
+    height: 80vh;
+    width: 85vh;
+    border: 2px solid green;
+    padding:2px;
+    align-self: flex-left;
+    grid-template-columns: 120px;
+    position:absolute; left:500px; top:100px;
+    background-color: aliceblue;
+    
+}
+.items{
+        
+        padding: 12px;
+        margin: 10px;
+
+}
+.class1{
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+ .m{
+    margin-left: 100px;
+}
+.button-container{
+    display: flex;
+    justify-content: center;
+    
+}
+.items-3{
+    background-color: rgb(168, 199, 168);
+    width: 200px;
+    height: 30px;
+}
+
+    
+
+.section{
+    background: image(img/img.jpg);
+}
+.class-3{
+    
+}
+
+
+
+
