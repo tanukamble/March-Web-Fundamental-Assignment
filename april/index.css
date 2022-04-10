@@ -1,0 +1,24 @@
+.my-new-class{
+    padding: 10px;
+    background-color: bisque;
+    border: 1px solid rgb(255, 139, 139);
+    border-radius: 2px;
+}
+
+.one{
+    background-color: hotpink;
+}
+.two{
+    background-color: violet;
+}
+
+.three{
+    background-color: greenyellow;
+}
+.four{
+    background-color: rgb(100, 100, 194);
+}
+
+.h3-with-class{
+    border: 2px solid rebeccapurple;
+}
