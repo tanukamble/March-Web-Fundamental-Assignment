@@ -1,0 +1,16 @@
+.h1{
+    margin: 20px;
+}
+.mydiv{
+    padding: 20px;
+    border: 2px solid black;
+    margin: 20px;
+    width: 250px;
+    /*height: 2px;*/
+}
+.btn{
+    margin-left: 2px;
+}
+.p{
+    border-bottom: 2px solid rgb(136, 126, 126);
+}
