@@ -1,0 +1,8 @@
+.img{
+    width: 200px;
+    height: 200px;
+}
+.img:hover{
+    cursor: pointer;
+    /*background-color: rgb(234, 164, 79);*/
+}
